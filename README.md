@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Kangdyu/Kangdyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😀 I'm __Kangdyu (Daeho Kang)__, an undergraduate in CSE @ SKKU.
 
-Here are some ideas to get you started:
+🎯 __My goal__ is to be a __full-stack developer__ and develop many things that make our lives __more comfortable and enjoyable__ 😁.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👀 I'm currently focusing on __web front-end__ development.
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kangdyu&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kangdyu&show_icons=true&count_private=true" />
+</a>
