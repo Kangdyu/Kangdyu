@@ -23,7 +23,7 @@
 
 <p>
   <img alt="redux" src="https://user-images.githubusercontent.com/43704761/99537895-95ad0980-29ef-11eb-8a7b-3b0b02477450.png" height="32px" />
-  <img alt="gatsby" src="https://user-images.githubusercontent.com/43704761/99537824-7c0bc200-29ef-11eb-8292-8683bc181d34.png" height="32px" />
+  <!--<img alt="gatsby" src="https://user-images.githubusercontent.com/43704761/99537824-7c0bc200-29ef-11eb-8292-8683bc181d34.png" height="32px" />-->
   <img alt="graphql" src="https://user-images.githubusercontent.com/43704761/99537846-8463fd00-29ef-11eb-8ce9-9392b405d25e.png" height="32px" />
 </p>
 
