@@ -19,6 +19,7 @@
 
 #### ✏ I'm currently interested in
 
+![Gatsby](https://img.shields.io/badge/-Gatsby-542c85?style=flat-square)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-green?style=flat-square)
 ![HTML5 Canvas](https://img.shields.io/badge/-Canvas-lightgrey?style=flat-square)
 <!-- ![Three.js](https://img.shields.io/badge/-Three.js-red?style=flat-square) -->
